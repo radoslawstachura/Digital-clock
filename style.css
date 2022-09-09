@@ -1,0 +1,14 @@
+body{
+    background-color: #191A19;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 4rem;
+}
+
+#clock{
+    color: #D8E9A8;
+}
+
+.digits{
+    display: inline-block;
+    color: #4E9F3D;
+}
